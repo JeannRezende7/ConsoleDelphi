@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/24 20:42:29.000.773,=C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/24 20:49:01.000.998,C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\MINHA VIDA\ProjetosDelphi\Aplicação Console Delphi\TPessoa.pas</Transaction>
+    <Transaction>2022/05/24 20:49:20.000.850,C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\MINHA VIDA\ProjetosDelphi\Aplicação Console Delphi\AplicacaoConsole.dproj</Transaction>
+    <Transaction>2022/05/24 20:54:38.127,D:\MINHA VIDA\ProjetosDelphi\Aplicação Console Delphi\Pessoa.pas=D:\MINHA VIDA\ProjetosDelphi\Aplicação Console Delphi\TPessoa.pas</Transaction>
+  </Transactions>
+</BorlandProject>
