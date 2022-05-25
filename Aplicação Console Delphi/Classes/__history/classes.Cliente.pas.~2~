@@ -1,0 +1,9 @@
+unit classes.Cliente;
+
+interface
+type Tcliente = class
+Cnpj,RazaoSocial : String;
+end;
+implementation
+
+end.

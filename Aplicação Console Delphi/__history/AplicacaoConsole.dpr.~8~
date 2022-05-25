@@ -8,8 +8,7 @@ uses
   System.SysUtils,
   classes.Pessoa in 'Classes\classes.Pessoa.pas',
   classes.Cliente in 'Classes\classes.Cliente.pas',
-  classes.Usuario in 'Classes\classes.Usuario.pas',
-  classes.Administrador in 'Classes\classes.Administrador.pas';
+  classes.Usuario in 'Classes\classes.Usuario.pas';
 
 var
   Pessoa : Tpessoa;
@@ -27,6 +26,8 @@ begin
   Readln(Fornecedor.Cnpj);
   Writeln('O CNPJ é : ' + Fornecedor.Cnpj);
   Readln;
+
+
 
   except
     on E: Exception do

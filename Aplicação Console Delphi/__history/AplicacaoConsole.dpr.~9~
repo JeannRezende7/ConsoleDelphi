@@ -28,6 +28,8 @@ begin
   Writeln('O CNPJ é : ' + Fornecedor.Cnpj);
   Readln;
 
+
+
   except
     on E: Exception do
       Writeln(E.ClassName, ': ', E.Message);

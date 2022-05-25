@@ -87,7 +87,10 @@
         <DelphiCompile Include="$(MainSource)">
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
-        <DCCReference Include="Pessoa.pas"/>
+        <DCCReference Include="Classes\classes.Pessoa.pas"/>
+        <DCCReference Include="Classes\classes.Cliente.pas"/>
+        <DCCReference Include="Classes\classes.Usuario.pas"/>
+        <DCCReference Include="Classes\classes.Administrador.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
